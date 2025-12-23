@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#0E0F12</color>
+    <color name="cardBg">#15171C</color>
+    <color name="divider">#2A2D36</color>
+    <color name="textPrimary">#EDEDED</color>
+    <color name="textSecondary">#9AA0A6</color>
+
+    <!-- 单一强调色：你可以改成你喜欢的高级色 -->
+    <color name="accent">#4F7DFF</color>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AegisDocs</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="msg_copied">已复制</string>
+    <string name="info_hint_copy">提示：点击右侧复制按钮可复制该项；长按任意值也可复制。</string>
+
+    <string name="section_basic">基本信息</string>
+    <string name="section_id">证件信息</string>
+    <string name="section_quality">识别质量与告警</string>
+    <string name="unlock_state_masked">当前为脱敏显示（解锁后可查看与复制完整信息）</string>
+
+    <string name="msg_copied_key">已复制：%1$s</string>
+    <string name="msg_copied_section">已复制：%1$s（全部）</string>
+    <string name="section_info_title">信息</string>
+    <string name="action_unlock">解锁</string>
+    <string name="unlock_state_full">已解锁：可查看与复制完整信息</string>
+    <string name="action_copy_all">复制全部</string>
+    <string name="cd_copy">复制</string>
+    <string name="action_hide">隐藏</string>
+    <string name="title_bankcard">银行卡</string>
+    <string name="bankcard_empty_title">暂无银行卡</string>
+    <string name="bankcard_empty_subtitle">请先新建</string>
+    <string name="action_add">新建</string>
+    <string name="action_scan">扫描</string>
+    <string name="section_bankcard">银行卡信息</string>
+    <string name="bankcard_info_hint">内容默认隐藏，解锁后可查看与复制。</string>
+    <string name="bankcard_locked_tip">内容已隐藏，点击右上角或上方按钮解锁查看。</string>
+
+    <string name="title_idcard">身份证</string>
+    <string name="idcard_empty_title">暂无身份证</string>
+    <string name="idcard_empty_subtitle">请先新建</string>
+
+</resources>
